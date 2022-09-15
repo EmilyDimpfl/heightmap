@@ -24,3 +24,22 @@ Notable files:
 
 * [plot.py](plot.py), which contains the python code to calculate the polynomial fit.
 * [heightmap.csv](heightmap.csv), which contains the dataset used.
+
+## Getting ready to use:
+
+Install Python from https://www.python.org/downloads/
+
+Then, install the python packages I use with pip, the python package manager:
+
+```bash
+$ pip install -r requirements.txt
+```
+
+## Running:
+
+Simply run the plot program in python:
+
+```bash
+$ python3 plot.py
+```
+
